@@ -2,17 +2,18 @@
 
 Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) software
 
-- [What is Foam?](#what-is-foam)
-- [Foam Plugins](#foam-plugins)
-	- [Developer Recommended](#developer-recommended)
-	- [Other](#other)
-- [Publishing](#publishing)
-- [Foam Templates](#foam-templates)
-- [Others Using Foam](#others-using-foam)
-- [PKMSs](#pkmss)
-- [PKMS Reading](#pkms-reading)
-- ['External' Tools](#external-tools)
-- [Contribute](#contribute)
+- [Awesome Foam Resources ![Awesome](https://awesome.re)](#awesome-foam-resources-)
+	- [What is Foam?](#what-is-foam)
+	- [Foam Plugins](#foam-plugins)
+		- [Developer Recommended](#developer-recommended)
+		- [Other](#other)
+	- [Publishing](#publishing)
+	- [Foam Templates](#foam-templates)
+	- [Others Using Foam](#others-using-foam)
+	- [PKMSs](#pkmss)
+	- [PKMS Reading](#pkms-reading)
+	- ['External' Tools](#external-tools)
+	- [Contribute](#contribute)
 
 ## What is Foam?
 
@@ -24,9 +25,9 @@ Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) so
 
 ### Developer Recommended
 
-- [foam.foam-vscode](): Foam's own extension
-- [yzhang.markdown-all-in-one](): Provides many markdown goodies & helpers
-- [mushan.vscode-paste-image](): Shortcut to paste image from clipboard into markdown, saving image file into workspace folder
+- [foam.foam-vscode](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode): Foam's own extension
+- [yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): Provides many markdown goodies & helpers
+- [mushan.vscode-paste-image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image): Shortcut to paste image from clipboard into markdown, saving image file into workspace folder
 
 ### Other
 
@@ -46,7 +47,6 @@ Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) so
 - [gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): Show TODO, FIXME, etc. comment tags in a tree view
 - [redhat.vscode-yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml): YAML Language Support by Red Hat, with built-in Kubernetes syntax support
 - [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Icons for Visual Studio Code
-- [sleistner.vscode-fileutils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils): A convenient way of creating, duplicating, moving, renaming and deleting files and directories
 
 ## Publishing
 
@@ -59,31 +59,36 @@ Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) so
 
 ## Foam Templates
 
+- [Base Foam Template](https://github.com/foambubble/foam-template): Basic Foam template demonstrating Foam's features
 - [Tyrell](https://github.com/voightco/tyrell): A starting poing for using Foam with extra snippets, extensions, and layout configs
-- [Foam with P.A.R.A]()
-- [Foam with Zettelkasten]()
-- [Foam with Decimal-Cutter]()
-- [Foam for Worldbuilding]()
-- [sn3akiwhizper's Foam template]()
+- [Foam with P.A.R.A](https://github.com/sn3akiwhizper/foam-example-para): Example of how to use the P.A.R.A. knowledge management system with Foam
+- [Foam with Zettelkasten](https://github.com/sn3akiwhizper/foam-example-zettelkasten): Example of how to use the Zettelkasten knowledge management system with Foam
+- [Foam with Decimal-Cutter](https://github.com/sn3akiwhizper/foam-example-decimal-cutter): Example of how to use the Decimal-Cutter knowledge management system (by Brian M. Watson) with Foam
+- [Foam with Johnny Decimal](https://github.com/sn3akiwhizper/foam-example-johnny-decimal): Example of how to use the Johnny Decimal knowledge management system with Foam
+- [Foam for Worldbuilding](https://github.com/sn3akiwhizper/foam-example-worldbuilding): Example/template for how to use Foam for worldbuilding and writing.
 
 ## Others Using Foam
 
+- [sn3akiwhizper's Foam template](https://github.com/sn3akiwhizper/foam-example-personal)
 - [kerrbear digital garden with Foam base](https://github.com/krry/commonplace-foamy-nextjs): Visually appealing example see live site [here](https://kerrbear.wtf/)
 - [Face Maulers D&D Campaign](https://github.com/clux/facemaulers): Example of how Foam was used to run a 3+ year D&D campaign
 
-## PKMSs
+## Personal Knowledge Management Systems
+
+This section is about theories and principles of knowledge management systems instead of specific software solutions that might be used to implement them.
 
 - [PARA](https://fortelabs.com/blog/para/): Projects, Areas, Resources, Archives method developed by ForteLabs
 - [Zettelkasten](https://zettelkasten.de/introduction/): "create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection"
 - [Johnny Decimal](https://johnnydecimal.com/): two levels of at most ten categories, category:id
-- [LYT Method](https://www.linkingyourthinking.com/): Learn Forward Learning (TM)
-- [Digital Gardening Tools & Resources](https://github.com/MaggieAppleton/digital-gardeners)
-- [Awesome Knowledge Management List](https://github.com/brettkromkamp/awesome-knowledge-management): list of PKMS resources with a bias towards Contextualise
-- [Awesome Knowledge Graphs List](https://github.com/frutik/awesome-knowledge-graphs): Resources about the theory of knowledge graphs and their use at scale
+- [LYT Method](https://www.linkingyourthinking.com/): Learn Forward Learning(TM)
 - [Get Things Done](https://gettingthingsdone.com/): 5 steps for classifying action items
 - [Zen To Done](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/): modification of GTD with a focus on simplicity
+- [Decimal-Cutter](https://forum.obsidian.md/t/cataloging-classification-information-science-pkms-and-you/10071): Combination many different systems coined by [Brian M. Watson](https://twitter.com/brimwats)
+- [Digital Gardening Tools & Resources](https://github.com/MaggieAppleton/digital-gardeners): list of resources for building and maintaining a digital garden
+- [Awesome Knowledge Management List](https://github.com/brettkromkamp/awesome-knowledge-management): list of PKMS resources with a bias towards Contextualise
+- [Awesome Knowledge Graphs List](https://github.com/frutik/awesome-knowledge-graphs): Resources about the theory of knowledge graphs and their use at scale
 
-## PKMS Reading
+## Personal Knowledge Management System Reading
 
 - [Rise and Fall of GTD](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done): how personal productivity in the Information Era can be a vicious cycle
 
@@ -92,6 +97,7 @@ Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) so
 This section lists tools that are not directly tied to Foam or VSCode but are complimentary, such as browser add-ons, etc.
 
 - [Flowcus](https://github.com/0Lilian/Flowcus): Browser add-on for clutter-free reading and clipping, highlighting, conversions, etc.
+- [ShareX](https://getsharex.com/): Open source screen capture tool
 
 ## Contribute
 
