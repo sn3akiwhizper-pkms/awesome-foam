@@ -2,18 +2,17 @@
 
 Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) software
 
-- [Awesome Foam Resources ![Awesome](https://awesome.re)](#awesome-foam-resources-)
-	- [What is Foam?](#what-is-foam)
-	- [Foam Plugins](#foam-plugins)
-		- [Developer Recommended](#developer-recommended)
-		- [Other](#other)
-	- [Publishing](#publishing)
-	- [Foam Templates](#foam-templates)
-	- [Others Using Foam](#others-using-foam)
-	- [PKMSs](#pkmss)
-	- [PKMS Reading](#pkms-reading)
-	- ['External' Tools](#external-tools)
-	- [Contribute](#contribute)
+- [What is Foam?](#what-is-foam)
+- [Foam Plugins](#foam-plugins)
+	- [Developer Recommended](#developer-recommended)
+	- [Other](#other)
+- [Publishing](#publishing)
+- [Foam Templates](#foam-templates)
+- [Others Using Foam](#others-using-foam)
+- [Personal Knowledge Management Systems](#personal-knowledge-management-systems)
+- [Personal Knowledge Management System Reading](#personal-knowledge-management-system-reading)
+- ['External' Tools](#external-tools)
+- [Contribute](#contribute)
 
 ## What is Foam?
 
@@ -52,6 +51,7 @@ Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) so
 
 - [Foam Gatsby Template](https://github.com/mathieudutour/foam-gatsby-template)
 - [Foam Jekyll Template](https://github.com/hikerpig/foam-jekyll-template)
+- [Foam Mkdocs Tempalte](https://github.com/Jackiexiao/foam-mkdocs-template): Publish Foam with Mkdocs theme
 - [adiren-perello](https://github.com/adrien-perello/digital-garden): example of publishing Foam with the [Gatsby digital garden](https://github.com/mathieudutour/gatsby-digital-garden) theme
 - [NextJS Starter](https://github.com/yenly/foamy-nextjs): Archived project that combines Foam with [NextJS](https://nextjs.org/)
 - [Primer Wiki Gatsby theme](https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki): Publish Foam project using an appealing [wiki-like](https://github.com/theowenyoung/gatsby-theme-primer-wiki) theme
@@ -77,7 +77,7 @@ Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) so
 
 This section is about theories and principles of knowledge management systems instead of specific software solutions that might be used to implement them.
 
-- [PARA](https://fortelabs.com/blog/para/): Projects, Areas, Resources, Archives method developed by ForteLabs
+- [PARA](https://fortelabs.com/blog/para/): Projects, Areas, Resources, Archives method developed by ForteLabs, also considered the "Second Brain" method
 - [Zettelkasten](https://zettelkasten.de/introduction/): "create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection"
 - [Johnny Decimal](https://johnnydecimal.com/): two levels of at most ten categories, category:id
 - [LYT Method](https://www.linkingyourthinking.com/): Learn Forward Learning(TM)
