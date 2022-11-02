@@ -46,6 +46,8 @@ Awesome resources for VSCode Foam Personal Knowledge Management System (PKMS) so
 - [gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): Show TODO, FIXME, etc. comment tags in a tree view
 - [redhat.vscode-yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml): YAML Language Support by Red Hat, with built-in Kubernetes syntax support
 - [vscode-icons-team.vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Icons for Visual Studio Code
+- [MikeCluck.kaleidofoam](https://marketplace.visualstudio.com/items?itemName=MikeCluck.kaleidofoam): Collection of custom features built to extend Foam's functionality
+- [shd101wyy.markdown-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced): [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) ported to vscode, enables advanced markdown features such as embedding markdown files, pandoc, ebooks, presentations, etc.
 
 ## Publishing
 
