@@ -12,6 +12,7 @@ This list of resources contains noteworthy items that should be considered but m
 - [kerrbear](https://github.com/krry/commonplace-foamy-nextjs): Uses Foam, Foamy NextJS, and Commonplace. Not currently published (10/30/2022)
 - [pitch-docs](https://github.com/pitch-game/pitch-docs): Stale Foam for organizing notes of a gaming startup
 - [pderaaij](https://garden.paulderaaij.nl/): Published Foam digital garden with a clean theme and extension to include a "Recently Changed" section to feature newly created/modified notes
+- [jekyll-bonsai](https://jekyll-bonsai.netlify.app/): While not a Foam implementation, this jekyll template provides a very aesthetically pleasing and feature-rich digital-garden blog.
 
 ## Seemingly Abandoned
 
