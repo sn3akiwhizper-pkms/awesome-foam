@@ -100,6 +100,7 @@ This section lists tools that are not directly tied to Foam or VSCode but are co
 
 - [Flowcus](https://github.com/0Lilian/Flowcus): Browser add-on for clutter-free reading and clipping, highlighting, conversions, etc.
 - [ShareX](https://getsharex.com/): Open source screen capture tool
+- [Dayora ChatGPT Journal Reader](https://www.dayora.ai/tools/chatgpt-journal-reader): Free browser tool for converting selected ChatGPT export messages marked with the user role to Markdown, with available dates retained and no account required.
 
 ## Contribute
 
